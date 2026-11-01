@@ -117,7 +117,7 @@ npm run test:unit
 
 ## Demo
 
-* Frontend: https://razemconnect.vercel.app/
+* Frontend: https://razemcontent.vercel.app//
 * Backend: https://razemconnect.onrender.com/
 
 ---
