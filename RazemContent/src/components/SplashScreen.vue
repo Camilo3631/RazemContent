@@ -22,7 +22,7 @@
           text-3xl sm:text-4xl md:text-5xl lg:text-6xl
           tracking-wide"
           >
-         RazemConnect
+         RazemContent
         </h1>
       </div>
      </div>

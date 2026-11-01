@@ -10,7 +10,7 @@ describe('Footer', () => {
 
     it('displays copyright text', () => {
         const wrapper = mount(Footer)
-        expect(wrapper.text()).toContain('© 2026 RazemConnect')
+        expect(wrapper.text()).toContain('© 2026 RazemContent')
     })
 
     it('renders social media links', () => {

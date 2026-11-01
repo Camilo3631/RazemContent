@@ -21,7 +21,7 @@
         </div>
 
         <p class="text-sm text-slate-400">
-          © 2026 RazemConnect
+          © 2026 RazemContent
         </p>
 
     </div>

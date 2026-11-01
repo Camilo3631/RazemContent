@@ -8,6 +8,6 @@ describe('SplashScreen', () => {
 
     expect(wrapper.find('img').exists()).toBe(true)
     expect(wrapper.find('img').attributes('alt')).toBe('principal')
-    expect(wrapper.text()).toContain('RazemConnect')
+    expect(wrapper.text()).toContain('RazemContent')
   })
 })

@@ -10,8 +10,8 @@ describe('App', () => {
   })
 
   
-  it('contains RazemConnect', () => {
+  it('contains RazemContent', () => {
     const wrapper = mount(App)
-    expect(wrapper.text()).toContain('RazemConnect')
+    expect(wrapper.text()).toContain('RazemContent')
   })
 })
