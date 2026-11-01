@@ -1,4 +1,4 @@
-# RazemConnect
+# RazemContent
 
 Aplicación de chat en tiempo real construida con Vue.js y Node.js. Permite a los usuarios registrarse, agregar contactos y comunicarse mediante mensajes instantáneos, con confirmación de lectura en vivo gracias a Socket.IO.
 
