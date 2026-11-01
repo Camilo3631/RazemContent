@@ -20,7 +20,7 @@ const httpServer = createServer(app);
 
 const io = new Server(httpServer, {
   cors: {
-    origin: process.env.FRONTEND_URL || 'https://razemconnect.vercel.app',
+    origin: process.env.FRONTEND_URL || 'https://razemcontent.vercel.app/',
     credentials: true
   },
   path: '/socket.io/',
@@ -33,7 +33,7 @@ app.locals.io = io;
 
 app.use(
   cors({
-    origin: process.env.FRONTEND_URL || 'https://razemconnect.vercel.app',
+    origin: process.env.FRONTEND_URL || 'https://razemcontent.vercel.app/',
     credentials: true
   })
 );
